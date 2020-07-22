@@ -1,2 +1,2 @@
 # AutoHero
-A sample project demonstrating 
+A sample project demonstrating web automation.
